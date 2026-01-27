@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Impossibleclone
-- 👀 GNU/linux user
+- 🐧 I use Arch btw
 - ♟️ fine Chess Player
 - 🌱 learning Programming
 - 📫 reach me : impossibleclone2005@gmail.com
