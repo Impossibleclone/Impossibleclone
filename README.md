@@ -2,7 +2,7 @@
 - 🐧 I use Arch btw
 - ♟️ fine Chess Player
 - 🌱 learning Programming
-- 📫 reach me : impossibleclone2005@gmail.com
+- 📫 reach me : impossibleclone@gmail.com
 - ⚡ Fun fact: There are more chess positions in the game of chess than there are atoms in the observable Universe!
 
 <!---
